@@ -1,0 +1,3 @@
+
+spring.main.sources: integration.redhat.org.fuse_boot_eap.MySpringBootRoute
+camel.springboot.main-run-controller: true
